@@ -7,9 +7,8 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
 //Dylan Ashton n01442206 RNA
-public class FileContentFrag extends Fragment {
+public class SettingsFrag extends Fragment {
 
 
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -20,13 +19,12 @@ public class FileContentFrag extends Fragment {
     private String mParam1;
     private String mParam2;
 
-    public FileContentFrag() {
+    public SettingsFrag() {
         // Required empty public constructor
     }
 
-
-    public static FileContentFrag newInstance(String param1, String param2) {
-        FileContentFrag fragment = new FileContentFrag();
+    public static SettingsFrag newInstance(String param1, String param2) {
+        SettingsFrag fragment = new SettingsFrag();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
@@ -47,6 +45,6 @@ public class FileContentFrag extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.file_frag, container, false);
+        return inflater.inflate(R.layout.settings_frag, container, false);
     }
 }
