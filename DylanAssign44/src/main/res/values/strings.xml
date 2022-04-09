@@ -1,3 +1,8 @@
+<!--Dylan Ashton n01442206 -->
 <resources>
-    <string name="app_name">DylanAssign4</string>
+    <string name="app_name">DylanAshtonN01442206</string>
+    <string name="DA2206">DylanAshtonN01442206</string>
+    <string name="soa">Stay on app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
