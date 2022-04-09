@@ -5,4 +5,13 @@
     <string name="soa">Stay on app?</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
+    <string name="navigation_drawer_open">o</string>
+    <string name="navigation_drawer_close">n</string>
+    <string name="nav_drawer">Nav Drawer</string>
+    <string name="home">Home</string>
+    <string name="download">Download</string>
+    <string name="weather">Weather</string>
+    <string name="file">File</string>
+    <string name="settings">Settings</string>
+    <string name="shape">Shape</string>
 </resources>
