@@ -14,41 +14,62 @@ import com.google.android.material.navigation.NavigationView;
 //Dylan Ashton n01442206 RNA
 public class DylanActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
-    private HomeFrag home;
+    private final HomeFrag home = new HomeFrag();
+    private final DownloadFrag download = new DownloadFrag();
+    private final AsSrv srv = new AsSrv();
+    private final FileContentFrag file = new FileContentFrag();
+    private final SettingsFrag settings = new SettingsFrag();
+    private final ShapeFrag shape = new ShapeFrag();
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dylan_main);
 
-        home = new HomeFrag();
-
+        //setup
         getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, home).commit();
-
-
+        NavigationView navigationView = findViewById(R.id.dylan_nav_view);
+        navigationView.setNavigationItemSelectedListener(this);
     }
 
 
 
-
+    //menu logic
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         int id = item.getItemId();
-        if (id == R.id.drawer_home) {
-
-        } else if (id == R.id.drawer_settings) {
-
-        } else if (id == R.id.drawer_shape) {
-
-        } else if (id == R.id.drawer_download) {
-
-        } else if (id == R.id.drawer_srv) {
-
-        } else if (id == R.id.drawer_file) {
-
-        }
         DrawerLayout drawer = findViewById(R.id.dylan_drawer_layout);
-        drawer.closeDrawer(GravityCompat.START);
+        if (id == R.id.drawer_home) {
+            getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, home).commit();
+            drawer.closeDrawer(GravityCompat.START);
+            return true;
+        }
+        else if (id == R.id.drawer_download) {
+            getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, download).commit();
+            drawer.closeDrawer(GravityCompat.START);
+            return true;
+        }
+        else if (id == R.id.drawer_srv) {
+            getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, srv).commit();
+            drawer.closeDrawer(GravityCompat.START);
+            return true;
+        }
+        else if (id == R.id.drawer_file) {
+            getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, file).commit();
+            drawer.closeDrawer(GravityCompat.START);
+            return true;
+        }
+        else if (id == R.id.drawer_settings) {
+            getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, settings).commit();
+            drawer.closeDrawer(GravityCompat.START);
+            return true;
+        }
+        else if (id == R.id.drawer_shape) {
+            getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, shape).commit();
+            drawer.closeDrawer(GravityCompat.START);
+            return true;
+        }
         return true;
     }
 
