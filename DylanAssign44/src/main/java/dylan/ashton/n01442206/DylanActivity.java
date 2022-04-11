@@ -68,6 +68,7 @@ public class DylanActivity extends AppCompatActivity implements NavigationView.O
 
 
     //menu logic
+    //must slide screen to access cant get 3 lines showing!
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         int id = item.getItemId();
