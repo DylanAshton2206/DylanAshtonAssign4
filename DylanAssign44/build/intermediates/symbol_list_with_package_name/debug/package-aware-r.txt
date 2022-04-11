@@ -2476,7 +2476,6 @@ drawable ic_file
 drawable ic_home
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
-drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
@@ -3222,6 +3221,7 @@ menu example_menu2
 menu menu_drawer
 menu overflow
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string DA2206
