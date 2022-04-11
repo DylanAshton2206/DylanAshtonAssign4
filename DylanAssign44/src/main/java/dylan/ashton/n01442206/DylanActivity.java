@@ -5,17 +5,24 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.navigation.Navigation;
 
+import android.annotation.SuppressLint;
+import android.app.Fragment;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.google.android.material.navigation.NavigationView;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+
 
 //Dylan Ashton n01442206 RNA
 public class DylanActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
@@ -35,6 +42,22 @@ public class DylanActivity extends AppCompatActivity implements NavigationView.O
         getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, home).commit();
         NavigationView navigationView = findViewById(R.id.dylan_nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+        //clock not working
+        //setText();
+
+    }
+
+    @SuppressLint("SimpleDateFormat")
+    public void setText(){
+        Fragment home_time;
+        Calendar calendar;
+        String dateTime;
+        SimpleDateFormat simpleDateFormat;
+        home_time = getFragmentManager().findFragmentById(R.id.DylanHomeFrag);
+        calendar = Calendar.getInstance();
+        simpleDateFormat = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss aaa z");
+        dateTime = simpleDateFormat.format(calendar.getTime());
+        ((TextView) home_time.getView().findViewById(R.id.dylan_time)).setText(dateTime);
     }
 
     //menu logic
