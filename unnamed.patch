@@ -1,0 +1,161 @@
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat
+deleted file mode 100644
+index 1948367521a913df0511861c5f7e73542d728207..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat
+deleted file mode 100644
+index dfc63fe336f37f138eb1b3f70d5f36b4ae981b6b..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat
+deleted file mode 100644
+index 9f6023a5ed0d1d48e07398b99caacec6a5f06aa9..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat
+deleted file mode 100644
+index 7f9090bb7807e4e0acae83758c6cf1664dc61639..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat
+deleted file mode 100644
+index 8d3a8cf6974e820e5638292866a3d59e420aaaca..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat
+deleted file mode 100644
+index aef4f05cecf1c23f08c230569ff6e4f6edc33057..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat
+deleted file mode 100644
+index f83fdecdf4ca8cb258ef19a2d0910ba8f1541577..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat
+deleted file mode 100644
+index 5351783948676c070b94ffe59f68f690eb35c20e..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat
+deleted file mode 100644
+index 6ba8dcce56b6048cc6b05283f0e45fb43b35f73d..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat
+deleted file mode 100644
+index 195f8d83110f57def2f256e32aab4e8601091811..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat
+deleted file mode 100644
+index fd48279e0224bfd61e235f6983a718ec85f53350..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat
+deleted file mode 100644
+index a04607c26095cc3a3a0eeeaf6894e77e234110ed..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat
+deleted file mode 100644
+index 664a452d1aa3e11d818b759aefe278785a0ff608..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat
+deleted file mode 100644
+index 2be93222e05efa3469d8d8db021e57c9d4854c25..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat b/DylanAssign44/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat
+deleted file mode 100644
+index c39717c61e55a090602d8e92acf4de224f04b195..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_0.jar b/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_0.jar
+deleted file mode 100644
+index 2d7a76cd95b5263505625745053afe2caad8ff95..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_1.jar b/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_1.jar
+deleted file mode 100644
+index 1d604c460bff06ca612fae46f1735d04fb49e2d3..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_2.jar b/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_2.jar
+deleted file mode 100644
+index 80041c19eead40184019b4e5913fe8b758a24092..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_3.jar b/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_3.jar
+deleted file mode 100644
+index 57bae6e9b1ee08d680c1d9524899a2fb9f394228..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_4.jar b/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_4.jar
+deleted file mode 100644
+index c03bb9fd6cfb5f8c446bbd30cd403ef23fa4f412..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_5.jar b/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_5.jar
+deleted file mode 100644
+index f7072d2aa76d8b1344b0618b492059acb8ace6cf..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_6.jar b/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_6.jar
+deleted file mode 100644
+index 4846c1dc5c389b74e87081c2bb814cefbc10ba7e..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git a/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_7.jar b/DylanAssign44/build/intermediates/project_dex_archive/debug/out/358c4e1f18a51f0948de9e1cc371b579852dd1b18ed724a3a959d62451da33d8_7.jar
+deleted file mode 100644
+index c4a8ca6e1d0009ab52fc1c5484ddb85ca2e09170..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+

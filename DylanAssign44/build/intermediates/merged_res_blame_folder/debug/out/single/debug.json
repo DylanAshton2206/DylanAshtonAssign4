@@ -144,6 +144,10 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-hdpi\\ic_home.png"
     },
     {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable_sweep.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable\\sweep.xml"
+    },
+    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },

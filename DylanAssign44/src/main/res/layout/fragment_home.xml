@@ -13,5 +13,12 @@
         android:layout_height="wrap_content"
         android:text="@string/app_name" />
 
+    <ImageView
+        android:contentDescription="@string/sweep"
+        android:layout_width="500dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:src="@drawable/sweep" />
+
 
 </FrameLayout>
