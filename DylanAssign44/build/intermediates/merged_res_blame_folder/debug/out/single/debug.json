@@ -32,12 +32,12 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-mdpi\\ic_file.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_star.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-xhdpi\\ic_star.png"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_star.xml.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-anydpi\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_star.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-xhdpi\\ic_star.png"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_weather.xml.flat",
@@ -212,12 +212,12 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_home.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\menu_overflow.xml.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\menu\\overflow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_home.png.flat",

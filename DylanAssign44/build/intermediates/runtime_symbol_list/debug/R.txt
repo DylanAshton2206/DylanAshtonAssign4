@@ -3368,8 +3368,9 @@ int string settings 0x7f0f008c
 int string shape 0x7f0f008d
 int string soa 0x7f0f008e
 int string status_bar_notification_info_overflow 0x7f0f008f
-int string weather 0x7f0f0090
-int string yes 0x7f0f0091
+int string sweep 0x7f0f0090
+int string weather 0x7f0f0091
+int string yes 0x7f0f0092
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001
 int style AndroidThemeColorAccentYellow 0x7f100002
