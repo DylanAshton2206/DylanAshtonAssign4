@@ -3281,6 +3281,7 @@ int string androidx_startup 0x7f0f001c
 int string app_name 0x7f0f001d
 int string appbar_scrolling_view_behavior 0x7f0f001e
 int string ashton 0x7f0f0094
+int string ashtonn01442206 0x7f0f0096
 int string bottom_sheet_behavior 0x7f0f001f
 int string bottomsheet_action_expand_halfway 0x7f0f0020
 int string character_counter_content_description 0x7f0f0021

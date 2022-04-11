@@ -48,7 +48,7 @@ public class DylanActivity extends AppCompatActivity implements NavigationView.O
         NavigationView navigationView = findViewById(R.id.dylan_nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        //list download
+        //list
         listView= findViewById(R.id.dylan_list);
         ArrayList<String> arrayList =new ArrayList<>();
         arrayList.add("First");

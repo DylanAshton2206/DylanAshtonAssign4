@@ -7,6 +7,12 @@
     tools:context=".AsSrv"
     android:id="@+id/DylanSrvFrag"
     android:background="@color/silver">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/ashtonn01442206"
+        android:textStyle="bold"/>
 
 
 
