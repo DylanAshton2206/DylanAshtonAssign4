@@ -16,11 +16,14 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import com.google.android.material.navigation.NavigationView;
 
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
 
 
@@ -33,7 +36,9 @@ public class DylanActivity extends AppCompatActivity implements NavigationView.O
     private final FileContentFrag file = new FileContentFrag();
     private final SettingsFrag settings = new SettingsFrag();
     private final ShapeFrag shape = new ShapeFrag();
+    ListView listView;
 
+    @SuppressLint("SimpleDateFormat")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,23 +47,25 @@ public class DylanActivity extends AppCompatActivity implements NavigationView.O
         getSupportFragmentManager().beginTransaction().replace(R.id.dylan_frame_layout, home).commit();
         NavigationView navigationView = findViewById(R.id.dylan_nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-        //clock not working
-        //setText();
 
-    }
+        //list download
+        listView= findViewById(R.id.dylan_list);
+        ArrayList<String> arrayList =new ArrayList<>();
+        arrayList.add("First");
+        arrayList.add("Second");
+        arrayList.add("Third");
 
-    @SuppressLint("SimpleDateFormat")
-    public void setText(){
-        Fragment home_time;
+        //clock not working app crashes with .setText
         Calendar calendar;
         String dateTime;
         SimpleDateFormat simpleDateFormat;
-        home_time = getFragmentManager().findFragmentById(R.id.DylanHomeFrag);
         calendar = Calendar.getInstance();
         simpleDateFormat = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss aaa z");
         dateTime = simpleDateFormat.format(calendar.getTime());
-        ((TextView) home_time.getView().findViewById(R.id.dylan_time)).setText(dateTime);
+       // ((TextView) navigationView.findViewById(R.id.dylan_time)).setText(dateTime);
     }
+
+
 
     //menu logic
     @Override

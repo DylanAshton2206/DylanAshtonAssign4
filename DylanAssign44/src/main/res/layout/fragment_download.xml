@@ -7,7 +7,9 @@
     tools:context=".DownloadFrag"
     android:id="@+id/DylanDownloadFrag"
     android:background="@color/aqua">
-
-
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dylan_list"/>
 
 </FrameLayout>

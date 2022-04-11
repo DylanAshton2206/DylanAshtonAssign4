@@ -7,6 +7,27 @@
     tools:context=".FileContentFrag"
     android:id="@+id/DylanFileFrag"
     android:background="@color/purple">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dylan"
+        android:textSize="40sp"
+        android:textStyle="bold|italic"
+        android:rotation="45"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="10dp"
+        android:textColor="@color/red" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="35dp"
+        android:rotation="-45"
+        android:text="@string/ashton"
+        android:textColor="@color/blue"
+        android:textSize="40sp"
+        android:textStyle="bold|italic" />
 
 
 </FrameLayout>

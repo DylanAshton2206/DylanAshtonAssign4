@@ -2738,6 +2738,7 @@ id dropdown_menu
 id dylan_drawer_layout
 id dylan_frame_layout
 id dylan_help
+id dylan_list
 id dylan_nav_view
 id dylan_settings
 id dylan_time
@@ -3280,6 +3281,7 @@ string abc_toolbar_collapse_description
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
+string ashton
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
 string character_counter_content_description
@@ -3288,6 +3290,7 @@ string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
 string download
+string dylan
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
