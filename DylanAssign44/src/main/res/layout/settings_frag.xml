@@ -8,4 +8,35 @@
     android:id="@+id/DylanSettingsFrag">
 
 
-</FrameLayout>
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:weightSum="1"
+        android:id="@+id/radioGroup">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:text="@string/red"
+            android:layout_gravity="center_horizontal"
+            android:checked="false"
+            android:textSize="25sp" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/purple"
+            android:layout_gravity="center_horizontal"
+            android:checked="false"
+            android:textSize="25sp"
+            android:layout_weight="0.13" />
+         <RadioButton
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/blue"
+         android:layout_gravity="center_horizontal"
+         android:checked="false"
+         android:textSize="25sp"
+         android:layout_weight="0.13" />
+    </RadioGroup>
+    </FrameLayout>

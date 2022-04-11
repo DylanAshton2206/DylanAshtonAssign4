@@ -2911,6 +2911,7 @@ id postLayout
 id progress_circular
 id progress_horizontal
 id radio
+id radioGroup
 id ratio
 id rectangles
 id reverseSawtooth
@@ -3283,6 +3284,7 @@ string app_name
 string appbar_scrolling_view_behavior
 string ashton
 string ashtonn01442206
+string blue
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
 string character_counter_content_description
@@ -3392,6 +3394,8 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string purple
+string red
 string search_menu_title
 string settings
 string shape

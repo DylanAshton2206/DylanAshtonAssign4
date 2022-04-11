@@ -32,12 +32,12 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-mdpi\\ic_file.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_star.xml.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-anydpi\\ic_star.xml"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_star.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-xhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_star.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-anydpi\\ic_star.xml"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_weather.xml.flat",
@@ -48,20 +48,20 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_cog.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-xhdpi\\ic_cog.png"
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\layout_dylan_main.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\layout\\dylan_main.xml"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_download.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-xhdpi\\ic_download.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\layout_dylan_main.xml.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\layout\\dylan_main.xml"
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_cog.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\drawable-xhdpi\\ic_cog.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign4\\DylanAssign44\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_weather.png.flat",
